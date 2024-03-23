@@ -1,0 +1,87 @@
+{
+  "exportedBy": null,
+  "bundleHash": null,
+  "version": "1.0.0.0",
+  "jitAssemblyCompilerCommands": [
+    {
+      "providerName": "TypedDataTable",
+      "typedDataTableDto": {
+        "id": 1,
+        "idRef": "ReadRangeConnections`1_1",
+        "hash": "ReadRangeConnections`1_1|DataTable|A7oQo0sqkK70Vh7M1OlTkzYV29k9eyIBjaZLAULA",
+        "dataType": "System.Data.DataTable, System.Data.Common",
+        "columns": [
+          {
+            "columnName": "Link",
+            "dataType": "System.String, System.Private.CoreLib"
+          },
+          {
+            "columnName": "Descripcion",
+            "dataType": "System.String, System.Private.CoreLib"
+          },
+          {
+            "columnName": "Vistas",
+            "dataType": "System.String, System.Private.CoreLib"
+          },
+          {
+            "columnName": "Cuenta",
+            "dataType": "System.String, System.Private.CoreLib"
+          }
+        ]
+      },
+      "entityAssemblyKey": {
+        "name": "Studio.Generated.TypedDataTable1",
+        "hash": "ReadRangeConnections`1_1|DataTable|jy5GPq3l3ytvv4f5gEb57gZeMuRaNrRnthJpuIzFM7s",
+        "assemblyName": "Studio.Generated.TypedDataTable1"
+      }
+    },
+    {
+      "providerName": "TypedDataTable",
+      "typedDataTableDto": {
+        "id": 2,
+        "idRef": "ReadRangeConnections`1_1",
+        "hash": "ReadRangeConnections`1_1|DataTable|OHRF9sTLe9JXTwHUzD01023L31faUcnFN0gNhuw8zc",
+        "dataType": "System.Data.DataTable, System.Data.Common",
+        "columns": [
+          {
+            "columnName": "Link",
+            "dataType": "System.String, System.Private.CoreLib"
+          },
+          {
+            "columnName": "Descripcion",
+            "dataType": "System.String, System.Private.CoreLib"
+          },
+          {
+            "columnName": "Vistas",
+            "dataType": "System.String, System.Private.CoreLib"
+          },
+          {
+            "columnName": "Cuenta",
+            "dataType": "System.String, System.Private.CoreLib"
+          },
+          {
+            "columnName": "Cantidad_Comentarios",
+            "dataType": "System.String, System.Private.CoreLib"
+          },
+          {
+            "columnName": "Fecha_Publicacion",
+            "dataType": "System.String, System.Private.CoreLib"
+          },
+          {
+            "columnName": "Cantidad_ComentariosCapturados",
+            "dataType": "System.String, System.Private.CoreLib"
+          },
+          {
+            "columnName": "Fecha_Consulta",
+            "dataType": "System.String, System.Private.CoreLib"
+          }
+        ]
+      },
+      "entityAssemblyKey": {
+        "name": "Studio.Generated.TypedDataTable2",
+        "hash": "ReadRangeConnections`1_1|DataTable|7SGeOY1MwybkVJ0gBvYbnOHYUKgCK0HG73jm7pQX0",
+        "assemblyName": "Studio.Generated.TypedDataTable2"
+      }
+    }
+  ]
+}

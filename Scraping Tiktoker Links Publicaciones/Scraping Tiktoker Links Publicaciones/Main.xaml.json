@@ -1,0 +1,69 @@
+{
+  "DisplayName": "Main",
+  "Tooltip": null,
+  "HelpLink": null,
+  "Color": null,
+  "OriginalIconFileName": null,
+  "Arguments": [
+    {
+      "Name": "ReadRangeConnections_1_1_Connection0",
+      "DisplayName": "ReadRangeConnections`1_1_Conexión",
+      "Category": null,
+      "Tooltip": "Leer rango",
+      "Placeholder": null,
+      "Widget": "Connection",
+      "IsRequired": true,
+      "IsPrincipal": true,
+      "ArgumentType": 1,
+      "DataSourceItems": null
+    },
+    {
+      "Name": "ReadRangeConnections_1_1_Connection0_Property0_Metadata",
+      "DisplayName": "ReadRangeConnections`1_1_Hoja de cálculo",
+      "Category": null,
+      "Tooltip": "Leer rango",
+      "Placeholder": null,
+      "Widget": null,
+      "IsRequired": true,
+      "IsPrincipal": true,
+      "ArgumentType": 2,
+      "DataSourceItems": null
+    },
+    {
+      "Name": "ReadRangeConnections_1_1_Connection0_Property1_Metadata",
+      "DisplayName": "WriteRangeConnections_3_Hoja de cálculo",
+      "Category": null,
+      "Tooltip": "Escribir rango",
+      "Placeholder": null,
+      "Widget": null,
+      "IsRequired": true,
+      "IsPrincipal": true,
+      "ArgumentType": 2,
+      "DataSourceItems": null
+    },
+    {
+      "Name": "WriteRangeConnections_2_Connection1",
+      "DisplayName": "WriteRangeConnections_2_Conexión",
+      "Category": null,
+      "Tooltip": "Escribir rango",
+      "Placeholder": null,
+      "Widget": "Connection",
+      "IsRequired": true,
+      "IsPrincipal": true,
+      "ArgumentType": 1,
+      "DataSourceItems": null
+    },
+    {
+      "Name": "WriteRangeConnections_2_Connection1_Property0_Metadata",
+      "DisplayName": "WriteRangeConnections_2_Hoja de cálculo",
+      "Category": null,
+      "Tooltip": "Escribir rango",
+      "Placeholder": null,
+      "Widget": null,
+      "IsRequired": true,
+      "IsPrincipal": true,
+      "ArgumentType": 2,
+      "DataSourceItems": null
+    }
+  ]
+}
